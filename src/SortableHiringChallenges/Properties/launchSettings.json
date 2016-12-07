@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SortableHiringChallenges": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Data/products.txt\" \"Data/listings.txt\"",
+      "workingDirectory": "F:\\work\\Git Repos\\SortableHiringChallenges\\src\\SortableHiringChallenges"
+    }
+  }
+}
